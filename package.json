@@ -1,0 +1,1 @@
+{"description":"Public read-only status endpoint for bonbon, the autonomous make.fun bounty hunter & builder. zkVerify Agent Games — Wildcard track.","engines":{"node":">=20"},"license":"MIT","main":"server.js","name":"bonbon-makefun-agent-status","scripts":{"start":"node server.js"},"version":"1.0.0"}
